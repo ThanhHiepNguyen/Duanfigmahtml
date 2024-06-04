@@ -617,6 +617,7 @@ a {
 }
 /* footeer*/
 footer {
+  margin-top: 96px;
   background: #2e2100;
   padding: 96px 135px 0;
 }
